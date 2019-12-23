@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{33F550B9-245B-4D39-8165-10F314A827B0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GestionDeClientes</RootNamespace>
+    <AssemblyName>GestionDeTransportes</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.DataVisualization.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\Busquedas.cs" />
+    <Compile Include="Core\ColeccionClientes.cs" />
+    <Compile Include="Core\ColeccionVehiculos.cs" />
+    <Compile Include="Core\Factura.cs" />
+    <Compile Include="Core\Transporte.cs" />
+    <Compile Include="Core\Vehiculo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\AddWindowTransporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Chart.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\DemoChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DoblePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DoblePanel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FacturaWindowController.cs" />
+    <Compile Include="UI\FacturaWindowView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormInsertarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ClientesMainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ClientesController.cs" />
+    <Compile Include="UI\FormInsertarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GraficoCamion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GraficoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GraficoComodidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\mainWindowViewBusquedas3.cs" />
+    <Compile Include="UI\mainWindowControllerBusquedas.cs" />
+    <Compile Include="UI\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainWindowGraficos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\mainWindowViewBusquedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\mainWindowViewBusquedas2.cs" />
+    <Compile Include="UI\mainWindowViewBusquedas4.cs" />
+    <Compile Include="UI\mainWindowViewBusquedas5.cs" />
+    <Compile Include="UI\ModWindowTransporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PanelAviso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Program.cs" />
+    <Compile Include="Core\Cliente.cs" />
+    <Compile Include="UI\VehiculosController.cs" />
+    <Compile Include="UI\VehiculosMainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\VistaDetalladaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\VistaDetalladaVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

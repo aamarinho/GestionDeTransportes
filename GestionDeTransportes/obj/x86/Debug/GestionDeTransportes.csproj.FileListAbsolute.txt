@@ -1,0 +1,49 @@
+C:\Users\Andrea\Desktop\Ingeniería Informática\4 Cuarto\DIA\practica\GestionDeClientesmodificacion\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\Ingeniería Informática\4 Cuarto\DIA\practica\GestionDeClientesmodificacion\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Andrea\Desktop\Ingeniería Informática\4 Cuarto\DIA\practica\GestionDeClientesmodificacion\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Ingeniería Informática\4 Cuarto\DIA\practica\GestionDeClientesmodificacion\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\Ingeniería Informática\4 Cuarto\DIA\practica\GestionDeClientesmodificacion\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\bin\Debug\es\System.Windows.Forms.DataVisualization.resources.dll
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csproj.CopyComplete
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Diego\Desktop\DIA19-20\EntregaUnida\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\cambios diego\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\cambios diego\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\cambios diego\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\cambios diego\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\cambios diego\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Usuario\Desktop\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Usuario\Desktop\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Usuario\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Usuario\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Andrea\Desktop\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Andrea\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\nuevas version\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\nuevas version\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\nuevas version\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\nuevas version\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Alberto\Desktop\Universidad2\CUARTO\DIA\proyecto\nuevas version\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\bin\Debug\es\System.Windows.Forms.DataVisualization.resources.dll
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojAssemblyReference.cache
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csproj.CopyComplete
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Sergio\Downloads\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
+C:\Users\Andrea\Desktop\PRESENTACION\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\PRESENTACION\GestionDeTransportes\GestionDeTransportes\bin\Debug\GestionDeTransportes.pdb
+C:\Users\Andrea\Desktop\PRESENTACION\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\PRESENTACION\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.exe
+C:\Users\Andrea\Desktop\PRESENTACION\GestionDeTransportes\GestionDeTransportes\obj\x86\Debug\GestionDeTransportes.pdb
